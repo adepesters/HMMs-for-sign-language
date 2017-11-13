@@ -1,4 +1,4 @@
-In this project I decode American Sign Language from short videos using HMMs and go over three different criteria to select the optimal number of states. An accuracy of 55% is achieved (vocabulary size = 112 words) using the Bayesian Information Criterion.
+In this project I use HMMs to decode American Sign Language from short videos and go over three different methods (CV, BIC and DIC) to select the optimal number of states of each model. An accuracy of 55% is achieved (vocabulary size = 112 words) using the Bayesian Information Criterion.
 
 The data in the `asl_recognizer/data/` directory is derived from 
 the [RWTH-BOSTON-104 Database](http://www-i6.informatik.rwth-aachen.de/~dreuw/database-rwth-boston-104.php). 
