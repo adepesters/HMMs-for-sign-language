@@ -12,3 +12,5 @@ in the form of start and end frames (inclusive). Training and testing word files
 The videos in the corpus include recordings from three different ASL speakers.
 The mappings for the three speakers to video are included in the `speaker.csv` 
 file.
+
+This is an adaptation of a project carried out in the context of the Artificial Intelligence Nanodegree by Udacity.
